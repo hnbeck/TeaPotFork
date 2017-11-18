@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AttilaMagyar 10/31/2015 16:20",
+	"super" : "DynamicComposableModel",
+	"category" : "Teapot-Tools-UI-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"models"
+	],
+	"name" : "TeaKeyValueList",
+	"type" : "normal"
+}

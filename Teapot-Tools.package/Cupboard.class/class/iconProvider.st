@@ -1,0 +1,4 @@
+accessing
+iconProvider
+
+	^TeaIconProvider

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 10/5/2016 21:57",
+	"super" : "Object",
+	"category" : "Teapot-Tools-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"IconCache"
+	],
+	"instvars" : [ ],
+	"name" : "TeaIconProvider",
+	"type" : "normal"
+}

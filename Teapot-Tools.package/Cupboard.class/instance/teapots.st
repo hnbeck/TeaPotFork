@@ -1,0 +1,4 @@
+accessing
+teapots
+
+	^Teapot allInstances

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "TorstenBergmann 10/8/2015 21:36",
+	"super" : "Object",
+	"category" : "Teapot-Tools-UI",
+	"classinstvars" : [
+		"soleInstance",
+		"icons"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Cupboard",
+	"type" : "normal"
+}

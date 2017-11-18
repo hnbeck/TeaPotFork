@@ -1,0 +1,3 @@
+*Teapot-Tools
+asString
+	^ name

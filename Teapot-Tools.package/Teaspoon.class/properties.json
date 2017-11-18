@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "AttilaMagyar 10/30/2015 19:33",
+	"super" : "ComposableModel",
+	"category" : "Teapot-Tools-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"urlInput",
+		"contentTypeDropList",
+		"contentTypeLabel",
+		"methodDropList",
+		"execButton",
+		"requestBody",
+		"consumer"
+	],
+	"name" : "Teaspoon",
+	"type" : "normal"
+}

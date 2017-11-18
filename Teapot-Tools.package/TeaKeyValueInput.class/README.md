@@ -1,0 +1,1 @@
+Two inputs and a remove button.
