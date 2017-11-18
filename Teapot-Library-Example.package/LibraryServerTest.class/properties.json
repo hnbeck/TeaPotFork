@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Teapot-Library-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"client",
+		"server",
+		"book1",
+		"book2"
+	],
+	"name" : "LibraryServerTest",
+	"type" : "normal"
+}

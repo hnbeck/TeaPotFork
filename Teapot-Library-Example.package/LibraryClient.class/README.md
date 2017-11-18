@@ -1,0 +1,1 @@
+A simple HTTP Client for communication with the LibraryServer

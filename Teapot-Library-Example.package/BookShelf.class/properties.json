@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AttilaNamed 2/28/2015 21:00",
+	"super" : "Object",
+	"category" : "Teapot-Library-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"books",
+		"sequence"
+	],
+	"name" : "BookShelf",
+	"type" : "normal"
+}
