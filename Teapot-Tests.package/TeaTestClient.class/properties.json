@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AttilaMagyar 7/29/2014 22:38",
+	"super" : "Object",
+	"category" : "Teapot-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TeaTestClient",
+	"type" : "normal"
+}

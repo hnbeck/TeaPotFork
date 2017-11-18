@@ -1,0 +1,3 @@
+private
+deleteDownloadableFile
+	downloadFile delete
