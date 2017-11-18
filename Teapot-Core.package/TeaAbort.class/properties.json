@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AttilaMagyar 8/9/2014 22:55",
+	"super" : "Error",
+	"category" : "Teapot-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"response"
+	],
+	"name" : "TeaAbort",
+	"type" : "normal"
+}

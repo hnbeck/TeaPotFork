@@ -1,0 +1,1 @@
+I'm an exception that immediately stops a request within a filter or route.

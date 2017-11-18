@@ -1,0 +1,1 @@
+A literal url pattern segment that matches to a string.

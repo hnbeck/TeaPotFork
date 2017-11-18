@@ -1,0 +1,1 @@
+I can be matched against an HTTP method. I will return either true or false.

@@ -1,0 +1,1 @@
+A before filter is evaluated before (matching) each request. This filter has access to the request object. For example, a before filter can be used to validate session attributes for authentication.

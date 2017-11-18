@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "AttilaMagyar 6/8/2016 22:12",
+	"super" : "Object",
+	"category" : "Teapot-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"server",
+		"dynamicRouter",
+		"staticRouter",
+		"compositeRouter",
+		"defaultOutput",
+		"current"
+	],
+	"name" : "Teapot",
+	"type" : "normal"
+}

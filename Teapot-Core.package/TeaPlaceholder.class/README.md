@@ -1,0 +1,1 @@
+I'm a placeholder with a key. My content is substituted with a value.

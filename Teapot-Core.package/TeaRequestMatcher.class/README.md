@@ -1,0 +1,1 @@
+I can be matched against a ZnRequest. I check the http method and url of the request. 

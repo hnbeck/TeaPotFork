@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AttilaMagyar 8/14/2014 21:26",
+	"super" : "Object",
+	"category" : "Teapot-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TeaUrlPattern",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I'm a ZnDelegate based on ZnStaticFileServerDelegate. I serve static content from a file system directory.

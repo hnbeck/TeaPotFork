@@ -1,0 +1,1 @@
+An error handler handles Exceptions signaled by the Routes or before actions.

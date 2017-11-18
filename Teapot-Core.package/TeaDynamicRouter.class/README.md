@@ -1,0 +1,1 @@
+I'm a ZnDelegate. I serve dynamically generated contents. The request is handled by the first route object, that returns other than 404 as response.

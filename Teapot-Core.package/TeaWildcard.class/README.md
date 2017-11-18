@@ -1,0 +1,1 @@
+A wildcard url pattern segment that matches to anything.

@@ -1,0 +1,1 @@
+I'm an URL pattern that uses a regular expression internally. I collect subexpressions in case of matching.

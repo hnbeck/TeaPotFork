@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AttilaMagyar 11/16/2014 17:04",
+	"super" : "KeyNotFound",
+	"category" : "Teapot-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"param"
+	],
+	"name" : "TeaNoSuchParam",
+	"type" : "normal"
+}

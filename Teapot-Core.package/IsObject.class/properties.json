@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AttilaMagyar 8/13/2014 22:09",
+	"super" : "Object",
+	"category" : "Teapot-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IsObject",
+	"type" : "normal"
+}

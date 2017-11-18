@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "AttilaMagyar 8/24/2014 18:02",
+	"super" : "Object",
+	"category" : "Teapot-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"action",
+		"responseTransformer",
+		"exceptions"
+	],
+	"name" : "TeaErrorHandler",
+	"type" : "normal"
+}

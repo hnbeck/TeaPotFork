@@ -1,0 +1,1 @@
+A TeaResponse represents an HTTP response returned by a Route. The ZnResponse is generated from the TeaResponse by the given response transformer.

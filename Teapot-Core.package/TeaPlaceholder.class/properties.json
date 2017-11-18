@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AttilaMagyar 7/27/2014 14:33",
+	"super" : "TeaGlobUrlSegment",
+	"category" : "Teapot-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"placeholderName",
+		"typeConstraint"
+	],
+	"name" : "TeaPlaceholder",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AttilaMagyar 7/30/2014 22:32",
+	"super" : "Object",
+	"category" : "Teapot-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"znRequest",
+		"pathParams"
+	],
+	"name" : "TeaRequest",
+	"type" : "normal"
+}

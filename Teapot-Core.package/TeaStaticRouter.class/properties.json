@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AttilaMagyar 8/2/2014 23:12",
+	"super" : "TeaRouter",
+	"category" : "Teapot-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"delegate"
+	],
+	"name" : "TeaStaticRouter",
+	"type" : "normal"
+}

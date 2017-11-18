@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AttilaMagyar 8/12/2014 21:11",
+	"super" : "Object",
+	"category" : "Teapot-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"matcherBlock",
+		"name"
+	],
+	"name" : "TeaMethodMatcher",
+	"type" : "normal"
+}
